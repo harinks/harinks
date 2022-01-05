@@ -29,6 +29,6 @@
 
 ## 📊 My Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harinks&show_icons=true&theme=radical&locale=en" alt="harinks" /></p></br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harinks&show_icons=true&theme=radical&locale=en" alt="harinks" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harinks&show_icons=true&theme=radical&locale=en" alt="harinks" /></p></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harinks&show_icons=true&theme=radical&locale=en" alt="harinks" /></p>
