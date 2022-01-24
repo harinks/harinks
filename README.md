@@ -30,4 +30,5 @@
 ## 📊 My Github Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harinks&show_icons=true&theme=radical&locale=en" alt="harinks" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harinks&layout=compact)](https://github.com/harinks/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinks&layout=compact" alt="harinks" /></p>
+(https://github-readme-stats.vercel.app/api/top-langs/?username=harinks&layout=compact)](https://github.com/harinks/github-readme-stats)
