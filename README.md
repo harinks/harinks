@@ -18,7 +18,6 @@
 
 ## 🖐 Connect with me:
 <p align="left">
-<a href="https://codepen.io/hari_nks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hari_nks" height="30" width="40" /></a>
 <a href="https://dev.to/hariharan_nks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hariharan_nks" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hariharan-nks-b36b571a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariharan-nks-b36b571a2" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/hariharan _nks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hariharan _nks" height="30" width="40" /></a>
