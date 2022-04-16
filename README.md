@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hariharan NKS</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3></br>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harinks&label=Profile%20views&color=0e75b6&style=flat" alt="harinks" /> </p>
 
 ## 🙋‍♂️ About Me
@@ -23,7 +23,6 @@
 <a href="https://dev.to/hariharan_nks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hariharan_nks" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hariharan-nks-b36b571a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariharan-nks-b36b571a2" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/hariharan _nks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hariharan _nks" height="30" width="40" /></a>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hariharan-nks-b36b571a2" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/hariharan-nks-b36b571a2?trk=profile-badge">Hariharan NKS</a></div>
 </p></br>
 
 ## 🚀 Languages and Tools:
